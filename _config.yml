@@ -1,0 +1,14 @@
+layout_spectrum: 0.22722968691959977
+typography_spectrum: 0.8485420173965394
+color:
+  brandStrength: 0.2614287920296192
+  lightness: 0.5201987612526864
+  saturation: 0.050339994952082634
+  rhythmicContrast: 0.7506945999339223
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: Continuity
